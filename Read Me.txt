@@ -1,0 +1,8 @@
+pip install pymysql
+pip install opencv--python
+pip install dlib
+pip install pillow
+pip install face_recognize
+pip install opencv-contrib-python --user
+pip install Cmake
+pip install opencv-contrib-python
